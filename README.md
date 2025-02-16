@@ -39,7 +39,7 @@ A real-time vehicle tracking system powered by **WebSockets** and **MongoDB**, h
 ### 🏢 [RMS](https://rms.myradar.com.bd)  
 A **Remote Monitoring System** for tracking environmental and device conditions in telecom towers. Built with microservices for smooth scaling.  
 
-### ⚡ [Raadar Prepaid Recharge System](https://github.com/username/raadar)  
+### ⚡ [Raadar Prepaid Recharge System](https://recharge.myradar.com.bd)  
 Seamless prepaid meter recharge system integrated with **bKash**, ensuring smooth transactions.  
 
 ---
