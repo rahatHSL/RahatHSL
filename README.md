@@ -1,8 +1,9 @@
 <h1 align="center">🎉 Welcome to My Dev Playground!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rahat+Hasan+👋;Full-Stack+Developer+%7C+Backend+Engineer;I+love+building+scalable+%26+real-time+apps!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rahat+Hasan+👋;Full-Stack+Developer+%7C+Backend+Engineer;I+love+building+scalable+%26+real-time+apps!+🚀" alt="Typing SVG" />
 </p>
+
 
 ---
 
