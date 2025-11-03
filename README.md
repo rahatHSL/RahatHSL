@@ -55,9 +55,11 @@ Seamless prepaid meter recharge system integrated with **bKash**, ensuring smoot
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahatHSL&show_icons=true&hide_title=true&count_private=true)  
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahatHSL&theme=github_dark)  
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahatHSL&theme=github_dark)  
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahatHSL&theme=github_dark)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahatHSL&theme=github-dark)
 
----
 
 ## 🤝 Let’s Connect!  
 
