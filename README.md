@@ -1,106 +1,63 @@
-<h1 align="center">🎉 Welcome to My Dev Playground!</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rahat+Hasan+👋;Full-Stack+Developer+%7C+Backend+Engineer;I+love+building+scalable+%26+real-time+apps!+🚀" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Mir%20Rahat%20Hasan&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20%40%20Hyper%20Systems%20Ltd.&descAlignY=62&descSize=15&descColor=a0aec0" />
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=6C63FF&center=true&vCenter=true&width=560&lines=Node.js+%7C+NestJS+%7C+Microservices+%7C+Real-time+Systems;Building+the+Raadar+Platform+%F0%9F%9A%80;WebSockets+%7C+PostgreSQL+%7C+Docker+%7C+AWS" />
 
----
+<br/>
 
-### 👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-rahat-6ab899209)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RahatHSL)
+[![Hyper Systems](https://img.shields.io/badge/Hyper%20Systems%20Ltd.-6C63FF?style=flat-square&logo=rocket&logoColor=white)](https://hypersystems.com.bd)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rahat@example.com)
 
-Hey there! I’m **Rahat Hasan**, a passionate **Full-Stack Developer** who loves solving complex backend problems, designing scalable systems, and bringing creative ideas to life.  
-
-💡 I’m driven by **clean architecture**, **performance optimization**, and **automation** — because great systems should be smart *and* efficient.
-
----
-
-## ⚡ What I Do
-
-- 🏗 **Build Things** – From sleek UIs to scalable backend systems, I love making apps that just work.  
-- ⚙️ **Scale & Optimize** – Handling large data, microservices, and caching for smooth performance.  
-- 🤖 **Automate Everything** – CI/CD, Docker, and cloud pipelines to keep things running 24/7.  
-- 🎥 **Real-time & WebRTC** – Exploring live video and real-time data streaming for interactive experiences.  
+</div>
 
 ---
 
-## 🧠 Tech Stack
-
-| **Category** | **Technologies** |
-|---------------|------------------|
-| 💻 **Frontend** | React.js · Next.js · Tailwind CSS |
-| ⚙️ **Backend** | Node.js · Express.js · NestJS |
-| 🗄️ **Database** | PostgreSQL · MongoDB |
-| ☁️ **DevOps & Cloud** | Docker · AWS · GitHub Actions |
-| 🧰 **Tools & Others** | Redis · Nginx · WebSocket · TypeScript |
+**Backend Engineer** at **[Hyper Systems Ltd.](https://hypersystems.com.bd)** — building the **Raadar** platform for IoT, real-time tracking, and remote monitoring across Bangladesh. I focus on scalable backend systems, microservices, and performance-critical infrastructure.
 
 ---
 
-## 🚀 Featured Projects
+## ⚙️ Tech Stack
 
-### 🚗 [**MyRadar**](https://myradar.com.bd)
-> A **real-time vehicle tracking system** powered by WebSockets and MongoDB — handling live updates like a champ.
-
-### 🏢 [**RMS (Remote Monitoring System)**](https://rms.myradar.com.bd)
-> Tracks environmental and device conditions in telecom towers. Built with **microservices** for smooth scaling and reliability.
-
-### ⚡ [**Raadar Prepaid Recharge System**](https://recharge.myradar.com.bd)
-> Seamless **prepaid meter recharge system** integrated with **bKash**, ensuring smooth, secure, and real-time transactions.
-
----
-
-## 🎯 Currently Exploring
-
-- 🧩 **WebRTC** – Real-time video communication and streaming  
-- 🪄 **GraphQL** – Flexible APIs beyond REST  
-- ☸️ **Kubernetes** – Advanced container orchestration  
-- 🐹 **Golang** – High-performance microservices and concurrency patterns  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats & Insights
+## 🚀 Projects
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahatHSL&theme=github_dark" alt="GitHub Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahatHSL&theme=github_dark" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahatHSL&theme=github_dark" alt="Commit Time" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahatHSL&theme=github-dark" alt="Activity Graph" />
-</p>
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**MyRadar**](https://myradar.com.bd) | Real-time vehicle tracking with live WebSocket updates | Node.js, WebSocket, MongoDB |
+| [**RMS**](https://rms.myradar.com.bd) | Telecom tower remote monitoring via microservices | NestJS, PostgreSQL, MQTT, AWS |
+| [**Raadar Recharge**](https://recharge.myradar.com.bd) | Prepaid meter recharge system with bKash integration | Node.js, PostgreSQL, Redis |
 
 ---
 
-## 🏆 Achievements & Highlights
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RahatHSL&theme=onedark&no-frame=true&margin-w=10" alt="Trophies" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mir-rahat-6ab899209" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rahat@example.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/RahatHSL">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahatHSL&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahatHSL&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahatHSL&theme=github_dark" width="48%" />
+</div>
 
 ---
 
-<p align="center">
-  💬 “Code is like humor. When you have to explain it, it’s bad.” — <i>Cory House</i>  
-  <br><br>
-  ⭐ Drop a star if you like my work — it motivates me to build more awesome stuff!
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" />
+</div>
