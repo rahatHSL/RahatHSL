@@ -2,18 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Mir%20Rahat%20Hasan&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20%40%20Hyper%20Systems%20Ltd.&descAlignY=62&descSize=15&descColor=a0aec0" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=6C63FF&center=true&vCenter=true&width=560&lines=Node.js+%7C+NestJS+%7C+Microservices+%7C+Real-time+Systems;Portfolio+%E2%86%92+mirrahat.com+%F0%9F%96%A5%EF%B8%8F;Building+the+Raadar+Platform+%F0%9F%9A%80;WebSockets+%7C+PostgreSQL+%7C+Docker+%7C+AWS" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=6C63FF&center=true&vCenter=true&width=560&lines=Node.js+%7C+NestJS+%7C+Microservices+%7C+Real-time+Systems;Building+the+Raadar+Platform+%F0%9F%9A%80;WebSockets+%7C+PostgreSQL+%7C+Docker+%7C+AWS" />
 
 <br/>
 
-### ✨ Featured portfolio
-
-[![Visit mirrahat.com](https://img.shields.io/badge/🚀_Visit_My_Portfolio-mirrahat.com-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e)](https://mirrahat.com)
-
-<sub>Terminal-themed · Projects · Experience · Resume · Contact</sub>
-
-<br/>
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-mirrahat.com-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mirrahat.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-rahat-6ab899209)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rahatHSL)
 [![Hyper Systems](https://img.shields.io/badge/Hyper%20Systems%20Ltd.-6C63FF?style=flat-square&logo=rocket&logoColor=white)](https://hypersystems.com.bd)
@@ -23,25 +16,7 @@
 
 ---
 
-**Backend Engineer** at **[Hyper Systems Ltd.](https://hypersystems.com.bd)** — building the **Raadar** platform for IoT, real-time tracking, and remote monitoring across Bangladesh. I focus on scalable backend systems, microservices, and performance-critical infrastructure.
-
----
-
-## 🖥️ Portfolio — [mirrahat.com](https://mirrahat.com)
-
-<div align="center">
-
-[![mirrahat.com](https://img.shields.io/badge/🌐_mirrahat.com-Visit_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29)](https://mirrahat.com)
-
-</div>
-
-> **My personal site** — a terminal-inspired portfolio built with **Next.js**, showcasing projects, work experience, skills, downloadable resume, and ways to get in touch.
-
-| | |
-|:---:|:---|
-| **URL** | [**https://mirrahat.com**](https://mirrahat.com) |
-| **Stack** | Next.js · React · Tailwind CSS · Framer Motion |
-| **Highlights** | Live projects · Experience timeline · Dark/light theme |
+**Backend Engineer** at **[Hyper Systems Ltd.](https://hypersystems.com.bd)** — building the **Raadar** platform for IoT, real-time tracking, and remote monitoring. Portfolio → **[mirrahat.com](https://mirrahat.com)**
 
 ---
 
@@ -66,12 +41,12 @@
 
 ## 🚀 Projects
 
-| | Project | Description | Stack |
-|:---:|:---:|--------|-------------|-------|
-| ⭐ | [**Portfolio → mirrahat.com**](https://mirrahat.com) | **Featured** — terminal UI, resume, projects & contact | Next.js, React, Tailwind CSS |
-| | [**MyRadar**](https://myradar.com.bd) | Real-time vehicle tracking with live WebSocket updates | Node.js, WebSocket, MongoDB |
-| | [**RMS**](https://rms.myradar.com.bd) | Telecom tower remote monitoring via microservices | NestJS, PostgreSQL, MQTT, AWS |
-| | [**Raadar Recharge**](https://recharge.myradar.com.bd) | Prepaid meter recharge system with bKash integration | Node.js, PostgreSQL, Redis |
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**Portfolio**](https://mirrahat.com) | Personal site — terminal UI, resume & contact | Next.js, React, Tailwind CSS |
+| [**MyRadar**](https://myradar.com.bd) | Real-time vehicle tracking with live WebSocket updates | Node.js, WebSocket, MongoDB |
+| [**RMS**](https://rms.myradar.com.bd) | Telecom tower remote monitoring via microservices | NestJS, PostgreSQL, MQTT, AWS |
+| [**Raadar Recharge**](https://recharge.myradar.com.bd) | Prepaid meter recharge system with bKash integration | Node.js, PostgreSQL, Redis |
 
 ---
 
