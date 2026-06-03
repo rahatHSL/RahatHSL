@@ -6,16 +6,19 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-mirrahat.com-6C63FF?style=flat-square&logo=googlechrome&logoColor=white)](https://mirrahat.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-rahat-6ab899209)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RahatHSL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rahatHSL)
 [![Hyper Systems](https://img.shields.io/badge/Hyper%20Systems%20Ltd.-6C63FF?style=flat-square&logo=rocket&logoColor=white)](https://hypersystems.com.bd)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rahat@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mirrahat00@gmail.com)
 
 </div>
 
 ---
 
 **Backend Engineer** at **[Hyper Systems Ltd.](https://hypersystems.com.bd)** — building the **Raadar** platform for IoT, real-time tracking, and remote monitoring across Bangladesh. I focus on scalable backend systems, microservices, and performance-critical infrastructure.
+
+**Portfolio:** [mirrahat.com](https://mirrahat.com) — terminal-themed site with projects, experience, and contact.
 
 ---
 
@@ -42,6 +45,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [**Portfolio**](https://mirrahat.com) | Personal site — terminal UI, resume, projects & contact | Next.js, React, Tailwind CSS |
 | [**MyRadar**](https://myradar.com.bd) | Real-time vehicle tracking with live WebSocket updates | Node.js, WebSocket, MongoDB |
 | [**RMS**](https://rms.myradar.com.bd) | Telecom tower remote monitoring via microservices | NestJS, PostgreSQL, MQTT, AWS |
 | [**Raadar Recharge**](https://recharge.myradar.com.bd) | Prepaid meter recharge system with bKash integration | Node.js, PostgreSQL, Redis |
@@ -51,9 +55,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahatHSL&theme=github_dark" width="100%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahatHSL&theme=github_dark" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahatHSL&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahatHSL&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahatHSL&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahatHSL&theme=github_dark" width="48%" />
 </div>
 
 ---
